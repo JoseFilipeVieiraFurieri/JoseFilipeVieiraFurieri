@@ -1,11 +1,11 @@
 <h1 align="center">Olá , eu sou Jose Filipe Vieira Furieri</h1>
 <h3 align="center">Estou em transição de carreira e indo para a area de TI</h3>
 
-- 🌱 Estou atualmente aprendo Backend **Node.js, mongoDb,Docker, mySql**
+- 🌱 Estou atualmente aprendendo Python **Web_scraping**
 
 - 📫 Email **jf.furieri@ymail.com**
 
-- ⚡ Fun fact **Sou apaixonado por Games, e literatura de terror**
+- ⚡ Fun fact **Sou apaixonado por Games, musica e literatura de terror**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
