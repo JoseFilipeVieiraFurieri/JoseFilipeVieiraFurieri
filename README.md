@@ -1,7 +1,7 @@
 <h1 align="center">Olá , eu sou Jose Filipe Vieira Furieri</h1>
 <h3 align="center">Estou em transição de carreira e indo para a area de TI</h3>
 
-- 🌱 Estou atualmente aprendendo Python **Web_scraping**
+- 🌱 Formado em Desenvolvimento web FullStack pela Trybe. Com uma paixão enorme por animais e tecnologia, estou atualmente cursando Analise e Desenvolvimento de Sistemas pela Estacio.
 
 - 📫 Email **jf.furieri@ymail.com**
 
